@@ -1,0 +1,7 @@
+/* your code */
+.dropdown {
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+}
+.login {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+}
